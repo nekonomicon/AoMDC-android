@@ -1,0 +1,4 @@
+[submodule "jni/SoHL-1.2"]
+	path = jni/SoHL-1.2
+	url = https://github.com/nekonomicon/SoHL-1.2
+	branch = aomdc
