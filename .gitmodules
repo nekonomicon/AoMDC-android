@@ -1,4 +1,4 @@
-[submodule "jni/SoHL-1.2"]
-	path = jni/SoHL-1.2
-	url = https://github.com/nekonomicon/SoHL-1.2
+[submodule "jni/hlsdk-xash3d"]
+	path = jni/hlsdk-xash3d
+	url = https://github.com/nekonomicon/hlsdk-xash3d
 	branch = aomdc
